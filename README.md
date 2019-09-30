@@ -15,4 +15,4 @@ yarn run server
 
 ### Under the hood
 
-Express is simply a Static File server with a custom logic for templating [index.html](./public/index.html)
+Express is simply a Static File server with a custom logic for templating [index.html](./public/index.html#L34)
